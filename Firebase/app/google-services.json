@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "938611690671",
+    "firebase_url": "https://collection-cipowela.firebaseio.com",
+    "project_id": "collection-cipowela",
+    "storage_bucket": "collection-cipowela.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938611690671:android:7fe8efe8446df0aa",
+        "android_client_info": {
+          "package_name": "com.example.cipowela.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938611690671-7i4ji5p4bpd0rajs9jg07gt27ov1jjfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPZSK-aPRURtLeHj8I4nhEw7dN7uuSa-A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
